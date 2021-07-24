@@ -1,0 +1,626 @@
+[
+    {
+        "id": 1,
+        "city": "kolkata",
+        "amnities": [
+            {
+                "type": "bathroom",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "AC",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "wifi",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "fridge",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "fan",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "Drinking water",
+                "icon": "fa  fa-star"
+            }
+        ],
+        "owner": {
+            "name": "Jeet Mukherjee",
+            "phn": "8100154468",
+            "email": "jeet@gmail.com"
+        },
+        "assets": {
+            "cover": "https://cdn.internationalstudent.com/images/stock-images/youth-hostel.jpg",
+            "slider": [
+                "https://www.nomadicmatt.com/wp-content/uploads/2013/09/badhostels.jpg",
+                "https://chennai.vit.ac.in/wp-content/uploads/2020/01/hostel-banner.jpg",
+                "https://www.tripsavvy.com/thmb/HT7L8fOLZgJf6I4hFjXQL_aRld0=/2122x1412/filters:fill(auto,1)/GettyImages-1193537845-4fdba1b4eebc478b8fce2a6c79a25115.jpg"
+            ]
+        },
+        "address": {
+            "link": "https://www.google.com/maps/dir/22.6179184,88.374344/piyai+homes/@22.6005417,88.3976749,20z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3a02751977f9c855:0xf71d6bf769a90045!2m2!1d88.4041015!2d22.5913231",
+            "words": "119, BC Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064"
+        },
+        "bedTypes": [
+            {
+                "number": 1,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 800,
+                    "nonAc": 600
+                }
+            },
+            {
+                "number": 2,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 1000,
+                    "nonAc": 1200
+                }
+            },
+            {
+                "number": 4,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 3500,
+                    "nonAc": 2600
+                }
+            },
+            {
+                "number": 6,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 10000,
+                    "nonAc": 8000
+                }
+            },
+            {
+                "number": 8,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 12000,
+                    "nonAc": 10000
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "city": "kolkata",
+        "amnities": [
+            {
+                "type": "bathroom",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "AC",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "wifi",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "fridge",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "fan",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "Drinking water",
+                "icon": "fa  fa-star"
+            }
+        ],
+        "owner": {
+            "name": "Jeet Mukherjee",
+            "phn": "8100154468",
+            "email": "jeet@gmail.com"
+        },
+        "assets": {
+            "cover": "https://cdn.internationalstudent.com/images/stock-images/youth-hostel.jpg",
+            "slider": [
+                "https://www.nomadicmatt.com/wp-content/uploads/2013/09/badhostels.jpg",
+                "https://chennai.vit.ac.in/wp-content/uploads/2020/01/hostel-banner.jpg",
+                "https://www.tripsavvy.com/thmb/HT7L8fOLZgJf6I4hFjXQL_aRld0=/2122x1412/filters:fill(auto,1)/GettyImages-1193537845-4fdba1b4eebc478b8fce2a6c79a25115.jpg"
+            ]
+        },
+        "address": {
+            "link": "https://www.google.com/maps/dir/22.6179184,88.374344/piyai+homes/@22.6005417,88.3976749,20z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3a02751977f9c855:0xf71d6bf769a90045!2m2!1d88.4041015!2d22.5913231",
+            "words": "119, BC Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064"
+        },
+        "bedTypes": [
+            {
+                "number": 1,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 800,
+                    "nonAc": 600
+                }
+            },
+            {
+                "number": 2,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 1000,
+                    "nonAc": 1200
+                }
+            },
+            {
+                "number": 4,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 3500,
+                    "nonAc": 2600
+                }
+            },
+            {
+                "number": 6,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 10000,
+                    "nonAc": 8000
+                }
+            },
+            {
+                "number": 8,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 12000,
+                    "nonAc": 10000
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "city": "Mumbai",
+        "amnities": [
+            {
+                "type": "bathroom",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "AC",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "wifi",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "fridge",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "fan",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "Drinking water",
+                "icon": "fa  fa-star"
+            }
+        ],
+        "owner": {
+            "name": "Jeet Mukherjee",
+            "phn": "8100154468",
+            "email": "jeet@gmail.com"
+        },
+        "assets": {
+            "cover": "https://cdn.internationalstudent.com/images/stock-images/youth-hostel.jpg",
+            "slider": [
+                "https://www.nomadicmatt.com/wp-content/uploads/2013/09/badhostels.jpg",
+                "https://chennai.vit.ac.in/wp-content/uploads/2020/01/hostel-banner.jpg",
+                "https://www.tripsavvy.com/thmb/HT7L8fOLZgJf6I4hFjXQL_aRld0=/2122x1412/filters:fill(auto,1)/GettyImages-1193537845-4fdba1b4eebc478b8fce2a6c79a25115.jpg"
+            ]
+        },
+        "address": {
+            "link": "https://www.google.com/maps/dir/22.6179184,88.374344/piyai+homes/@22.6005417,88.3976749,20z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3a02751977f9c855:0xf71d6bf769a90045!2m2!1d88.4041015!2d22.5913231",
+            "words": "119, BC Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064"
+        },
+        "bedTypes": [
+            {
+                "number": 1,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 800,
+                    "nonAc": 600
+                }
+            },
+            {
+                "number": 2,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 1000,
+                    "nonAc": 1200
+                }
+            },
+            {
+                "number": 4,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 3500,
+                    "nonAc": 2600
+                }
+            },
+            {
+                "number": 6,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 10000,
+                    "nonAc": 8000
+                }
+            },
+            {
+                "number": 8,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 12000,
+                    "nonAc": 10000
+                }
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "city": "Mumbai",
+        "amnities": [
+            {
+                "type": "bathroom",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "AC",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "wifi",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "fridge",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "fan",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "Drinking water",
+                "icon": "fa  fa-star"
+            }
+        ],
+        "owner": {
+            "name": "Jeet Mukherjee",
+            "phn": "8100154468",
+            "email": "jeet@gmail.com"
+        },
+        "assets": {
+            "cover": "https://cdn.internationalstudent.com/images/stock-images/youth-hostel.jpg",
+            "slider": [
+                "https://www.nomadicmatt.com/wp-content/uploads/2013/09/badhostels.jpg",
+                "https://chennai.vit.ac.in/wp-content/uploads/2020/01/hostel-banner.jpg",
+                "https://www.tripsavvy.com/thmb/HT7L8fOLZgJf6I4hFjXQL_aRld0=/2122x1412/filters:fill(auto,1)/GettyImages-1193537845-4fdba1b4eebc478b8fce2a6c79a25115.jpg"
+            ]
+        },
+        "address": {
+            "link": "https://www.google.com/maps/dir/22.6179184,88.374344/piyai+homes/@22.6005417,88.3976749,20z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3a02751977f9c855:0xf71d6bf769a90045!2m2!1d88.4041015!2d22.5913231",
+            "words": "119, BC Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064"
+        },
+        "bedTypes": [
+            {
+                "number": 1,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 800,
+                    "nonAc": 600
+                }
+            },
+            {
+                "number": 2,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 1000,
+                    "nonAc": 1200
+                }
+            },
+            {
+                "number": 4,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 3500,
+                    "nonAc": 2600
+                }
+            },
+            {
+                "number": 6,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 10000,
+                    "nonAc": 8000
+                }
+            },
+            {
+                "number": 8,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 12000,
+                    "nonAc": 10000
+                }
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "city": "Hyderabad",
+        "amnities": [
+            {
+                "type": "bathroom",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "AC",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "wifi",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "fridge",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "fan",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "Drinking water",
+                "icon": "fa  fa-star"
+            }
+        ],
+        "owner": {
+            "name": "Jeet Mukherjee",
+            "phn": "8100154468",
+            "email": "jeet@gmail.com"
+        },
+        "assets": {
+            "cover": "https://cdn.internationalstudent.com/images/stock-images/youth-hostel.jpg",
+            "slider": [
+                "https://www.nomadicmatt.com/wp-content/uploads/2013/09/badhostels.jpg",
+                "https://chennai.vit.ac.in/wp-content/uploads/2020/01/hostel-banner.jpg",
+                "https://www.tripsavvy.com/thmb/HT7L8fOLZgJf6I4hFjXQL_aRld0=/2122x1412/filters:fill(auto,1)/GettyImages-1193537845-4fdba1b4eebc478b8fce2a6c79a25115.jpg"
+            ]
+        },
+        "address": {
+            "link": "https://www.google.com/maps/dir/22.6179184,88.374344/piyai+homes/@22.6005417,88.3976749,20z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3a02751977f9c855:0xf71d6bf769a90045!2m2!1d88.4041015!2d22.5913231",
+            "words": "119, BC Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064"
+        },
+        "bedTypes": [
+            {
+                "number": 1,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 800,
+                    "nonAc": 600
+                }
+            },
+            {
+                "number": 2,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 1000,
+                    "nonAc": 1200
+                }
+            },
+            {
+                "number": 4,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 3500,
+                    "nonAc": 2600
+                }
+            },
+            {
+                "number": 6,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 10000,
+                    "nonAc": 8000
+                }
+            },
+            {
+                "number": 8,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 12000,
+                    "nonAc": 10000
+                }
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "city": "Hyderabad",
+        "amnities": [
+            {
+                "type": "bathroom",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "AC",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "wifi",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "fridge",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "fan",
+                "icon": "fa  fa-star"
+            },
+            {
+                "type": "Drinking water",
+                "icon": "fa  fa-star"
+            }
+        ],
+        "owner": {
+            "name": "Jeet Mukherjee",
+            "phn": "8100154468",
+            "email": "jeet@gmail.com"
+        },
+        "assets": {
+            "cover": "https://cdn.internationalstudent.com/images/stock-images/youth-hostel.jpg",
+            "slider": [
+                "https://www.nomadicmatt.com/wp-content/uploads/2013/09/badhostels.jpg",
+                "https://chennai.vit.ac.in/wp-content/uploads/2020/01/hostel-banner.jpg",
+                "https://www.tripsavvy.com/thmb/HT7L8fOLZgJf6I4hFjXQL_aRld0=/2122x1412/filters:fill(auto,1)/GettyImages-1193537845-4fdba1b4eebc478b8fce2a6c79a25115.jpg"
+            ]
+        },
+        "address": {
+            "link": "https://www.google.com/maps/dir/22.6179184,88.374344/piyai+homes/@22.6005417,88.3976749,20z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3a02751977f9c855:0xf71d6bf769a90045!2m2!1d88.4041015!2d22.5913231",
+            "words": "119, BC Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064"
+        },
+        "bedTypes": [
+            {
+                "number": 1,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 800,
+                    "nonAc": 600
+                }
+            },
+            {
+                "number": 2,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 1000,
+                    "nonAc": 1200
+                }
+            },
+            {
+                "number": 4,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 3500,
+                    "nonAc": 2600
+                }
+            },
+            {
+                "number": 6,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 10000,
+                    "nonAc": 8000
+                }
+            },
+            {
+                "number": 8,
+                "vacancy": {
+                    "ac": 10,
+                    "nonAc": 10
+                },
+                "price": {
+                    "ac": 12000,
+                    "nonAc": 10000
+                }
+            }
+        ]
+    }
+]
