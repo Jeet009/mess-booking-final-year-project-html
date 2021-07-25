@@ -101,9 +101,7 @@ body {
 }
 
 .amnities-list {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
+  max-height: 10vh;
 }
 /* Confirm  */
 .confirm-section {
